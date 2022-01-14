@@ -1,5 +1,4 @@
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark" # "default","air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme: jekyll-theme-cayman
 locale: "en-US"
 title: kcco.se
 description: [A sample page]
